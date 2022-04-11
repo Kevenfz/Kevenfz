@@ -1,7 +1,7 @@
 <div align="center">
 Eai, tudo bem? Sou o Keven Ferreira Moraes<br>
 Estudante de desenvolvimento de software Fullstack - BlueEdTech 
-</div>
+</div><br>
 <div align="center">
   <a href="https://github.com/Kevenfz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevenfz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
