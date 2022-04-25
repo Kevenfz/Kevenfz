@@ -1,5 +1,5 @@
 <div align="center">
-Eai, tudo bem? Sou o Keven Ferreira Moraes<br>
+Eai, tudo bem? Sou Keven Ferreira Moraes, é um prazer!<br>
 Estudante de desenvolvimento de software Fullstack - Escola BlueEdTech 
 </div><br>
 <div align="center">
