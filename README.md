@@ -1,6 +1,6 @@
 <div align="center">
 Eai, tudo bem? Sou Keven Ferreira Moraes, é um prazer!<br>
-Estudante de desenvolvimento de software Fullstack - Escola BlueEdTech 
+Progamador Front-end Jr! 
 </div><br>
 <div align="center">
   <a href="https://github.com/Kevenfz">
