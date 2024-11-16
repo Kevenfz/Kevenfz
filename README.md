@@ -1,6 +1,6 @@
 <div align="center">
 Eai, tudo bem? Sou Keven Ferreira Moraes, é um prazer!<br>
-Progamador Front-end Jr! 
+Progamador Front-end Jr 
 </div><br>
 <div align="center">
   <a href="https://github.com/Kevenfz">
